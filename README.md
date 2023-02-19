@@ -1,5 +1,4 @@
-# blobicons-v2
+# blobicons v2
+Iconpack with blobcats and blobfoxes (work in progress)
 
-blobicons but done right
-
-work in progress so more icons will be added slowly
+<img src="https://codeberg.org/Houl/blobicons-v2/raw/branch/main/assets/blobicons_banner.png">
